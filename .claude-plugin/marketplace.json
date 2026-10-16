@@ -9,7 +9,7 @@
       "name": "simetriik-forge",
       "source": {
         "source": "github",
-        "repo": "dxokal/simetriik-forge"
+        "repo": "simetriik/simetriik-forge"
       },
       "description": "Pratiquer la démarche Lumière (cadrage → spec → code → recette → production) avec des garde-fous déterministes."
     },
