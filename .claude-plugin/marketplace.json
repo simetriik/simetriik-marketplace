@@ -1,0 +1,33 @@
+{
+  "name": "simetriik",
+  "description": "Plugins privés de Simetriik Solutions",
+  "owner": {
+    "name": "Simetriik Solutions"
+  },
+  "plugins": [
+    {
+      "name": "simetriik-forge",
+      "source": {
+        "source": "github",
+        "repo": "dxokal/simetriik-forge"
+      },
+      "description": "Pratiquer la démarche Lumière (cadrage → spec → code → recette → production) avec des garde-fous déterministes."
+    },
+    {
+      "name": "axice",
+      "source": {
+        "source": "github",
+        "repo": "simetriik/axice"
+      },
+      "description": "Assistant pour lancer un business de service : niche, branding, offre, landing page, recrutement, prospection, finances, contrat/CGV et onboarding client. Adapté à l'Afrique et au monde francophone."
+    },
+    {
+      "name": "simetriik-guilde",
+      "source": {
+        "source": "github",
+        "repo": "simetriik/simetriik-guilde"
+      },
+      "description": "Une équipe virtuelle de neuf agents experts qui conduit une mission en Scrum, du besoin du client à la livraison."
+    }
+  ]
+}
