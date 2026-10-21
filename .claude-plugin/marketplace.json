@@ -11,7 +11,7 @@
         "source": "github",
         "repo": "simetriik/simetriik-forge"
       },
-      "description": "Pratiquer la démarche Lumière (cadrage → spec → code → recette → production) avec des garde-fous déterministes."
+      "description": "Pratiquer la démarche Lumière du besoin du client à la maintenance (cadrage, backlog et sprints, spec, code, livraison par incrément, maintenance) avec des garde-fous déterministes et une sécurité automatique gratuite."
     },
     {
       "name": "axice",
