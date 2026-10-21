@@ -28,6 +28,14 @@
         "repo": "simetriik/guilde"
       },
       "description": "Une équipe virtuelle de neuf agents experts qui conduit une mission en Scrum, du besoin du client à la livraison."
+    },
+    {
+      "name": "tunnu",
+      "source": {
+        "source": "github",
+        "repo": "simetriik/tunnu"
+      },
+      "description": "Plugin pédagogique : un tuteur pour apprendre et un atelier de conception pour transmettre des compétences techniques et initiatiques, avec garde-fous de source et de niveau d'ouverture."
     }
   ]
 }

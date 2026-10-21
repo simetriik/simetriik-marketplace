@@ -8,6 +8,7 @@ Procédure complète : `../marketplace-privee-guide.md`.
 | forge | `simetriik/forge` | `claude plugin install forge@simetriik` |
 | guilde | `simetriik/guilde` | `claude plugin install guilde@simetriik` |
 | axice | `simetriik/axice` | `claude plugin install axice@simetriik` |
+| tunnu | `simetriik/tunnu` | `claude plugin install tunnu@simetriik` |
 
 ## Installer sur une machine
 ```bash
@@ -15,6 +16,7 @@ claude plugin marketplace add simetriik/simetriik-marketplace
 claude plugin install forge@simetriik
 claude plugin install axice@simetriik
 claude plugin install guilde@simetriik
+claude plugin install tunnu@simetriik
 ```
 L'accès suit les droits GitHub de la machine (clé SSH ou `gh auth setup-git`).
 
